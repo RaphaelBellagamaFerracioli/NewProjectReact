@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/NewProjectReact/static/css/main.f08eee8a.css",
-    "main.js": "/NewProjectReact/static/js/main.6e8c33b3.js",
+    "main.css": "/NewProjectReact/static/css/main.0120ecbc.css",
+    "main.js": "/NewProjectReact/static/js/main.d8ca61ae.js",
     "static/media/futaba.jpg": "/NewProjectReact/static/media/futaba.a59982c226f2538c8087.jpg",
     "index.html": "/NewProjectReact/index.html",
-    "main.f08eee8a.css.map": "/NewProjectReact/static/css/main.f08eee8a.css.map",
-    "main.6e8c33b3.js.map": "/NewProjectReact/static/js/main.6e8c33b3.js.map"
+    "main.0120ecbc.css.map": "/NewProjectReact/static/css/main.0120ecbc.css.map",
+    "main.d8ca61ae.js.map": "/NewProjectReact/static/js/main.d8ca61ae.js.map"
   },
   "entrypoints": [
-    "static/css/main.f08eee8a.css",
-    "static/js/main.6e8c33b3.js"
+    "static/css/main.0120ecbc.css",
+    "static/js/main.d8ca61ae.js"
   ]
 }
