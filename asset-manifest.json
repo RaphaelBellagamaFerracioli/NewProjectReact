@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/NewProjectReact/static/css/main.0120ecbc.css",
-    "main.js": "/NewProjectReact/static/js/main.d8ca61ae.js",
-    "static/media/futaba.jpg": "/NewProjectReact/static/media/futaba.a59982c226f2538c8087.jpg",
-    "index.html": "/NewProjectReact/index.html",
-    "main.0120ecbc.css.map": "/NewProjectReact/static/css/main.0120ecbc.css.map",
-    "main.d8ca61ae.js.map": "/NewProjectReact/static/js/main.d8ca61ae.js.map"
+    "main.css": "/NewProjectReact/home/static/css/main.9e6cb898.css",
+    "main.js": "/NewProjectReact/home/static/js/main.8fda8da4.js",
+    "static/media/futaba.jpg": "/NewProjectReact/home/static/media/futaba.a59982c226f2538c8087.jpg",
+    "index.html": "/NewProjectReact/home/index.html",
+    "main.9e6cb898.css.map": "/NewProjectReact/home/static/css/main.9e6cb898.css.map",
+    "main.8fda8da4.js.map": "/NewProjectReact/home/static/js/main.8fda8da4.js.map"
   },
   "entrypoints": [
-    "static/css/main.0120ecbc.css",
-    "static/js/main.d8ca61ae.js"
+    "static/css/main.9e6cb898.css",
+    "static/js/main.8fda8da4.js"
   ]
 }
